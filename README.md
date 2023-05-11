@@ -1,15 +1,15 @@
 # Bot-Minecraft-JS
 
-## Installation
+## Facilities
 
-1) Allez dans votre editeur de code et entrer la commande suivante: `npm install node`
+1) Go to your code editor and enter the following command: `npm install node`
 
-2) Pour lancer le bot dans votre monde minecraft solo, fait echap(dans le monde) puis cliquez sur le bouton `LAN`
+2) To launch the bot in your solo minecraft world, do esc(in the world) then click on the `LAN` button
  
-3) Copiez le code donné dans le chat.
+3) Copy the code given in the chat.
 
-4) Collez le dans le code au niveau de la ligne 11 où il y a écris: `port: [COLLEZ ICI]`
+4) Paste it in the code at line 11 where it says: `port: [PASTE HERE]`
 
-5) Faite dans la console de votre editeur de code: `node index.js`
+5) Do in the console of your code editor: `node index.js`
 
 ![No Preview :(](https://github.com/Creator754915/local-chat-js/blob/main/preview/server_interface.png)
