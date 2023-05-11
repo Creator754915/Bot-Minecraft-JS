@@ -1,0 +1,22 @@
+{
+  "name": "minecraftbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "MAJJOR",
+  "license": "ISC",
+  "description": "my firts minecraft bot",
+  "dependencies": {
+    "minecraft-data": "^3.5.1",
+    "mineflayer": "^4.8.1",
+    "mineflayer-armor-manager": "^1.4.2",
+    "mineflayer-collectblock": "^1.4.1",
+    "mineflayer-pathfinder": "^2.2.0",
+    "mineflayer-pvp": "^1.2.1",
+    "nodemailer": "^6.9.1",
+    "vec3": "^0.1.7"
+  }
+}
