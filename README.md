@@ -11,3 +11,5 @@
 4) Collez le dans le code au niveau de la ligne 11 où il y a écris: `port: [COLLEZ ICI]`
 
 5) Faite dans la console de votre editeur de code: `node index.js`
+
+![No Preview :(](https://github.com/Creator754915/local-chat-js/blob/main/preview/server_interface.png)
