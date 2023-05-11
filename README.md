@@ -19,3 +19,4 @@
 
 7) The bot are in your world
  ![No Preview :(](https://github.com/Creator754915/Bot-Minecraft-JS/blob/main/images/bot%20join.png)
+ ![No Preview :(](https://github.com/Creator754915/Bot-Minecraft-JS/blob/main/images/bot%20here.png))
