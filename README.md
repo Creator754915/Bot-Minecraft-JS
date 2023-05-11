@@ -17,5 +17,5 @@
 
 6) Do in the console of your code editor: `node index.js`
 
-![No Preview :(](https://github.com/Creator754915/local-chat-js/blob/main/preview/server_interface.png)
-![](https://waifu.now.sh/type/endpoint)
+7) The bot are in your world
+ ![No Preview :(](https://github.com/Creator754915/Bot-Minecraft-JS/blob/main/images/bot%20join.png))
