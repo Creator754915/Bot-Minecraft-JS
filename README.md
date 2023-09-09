@@ -18,10 +18,12 @@
 6) Do in the console of your code editor: `node index.js`
 
 7) The bot are in your world
+
  ![No Preview :(](https://github.com/Creator754915/Bot-Minecraft-JS/blob/main/images/bot%20join.png)
+
  ![No Preview :(](https://github.com/Creator754915/Bot-Minecraft-JS/blob/main/images/bot%20here.png))
 
-## HELP
+## Commands
 
 **guard**
 
@@ -39,5 +41,18 @@
 
 **sprint** bot *SPRINT*
 
+**carre** Create *PVP ARENA*
 
 **help** 
+
+## Events
+  
+**spawn**
+
+**rain**
+
+**entitySleep**
+
+**playerJoined**
+
+**itemDrop**
