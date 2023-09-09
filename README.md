@@ -4,7 +4,7 @@
 
 1) Go to your code editor and enter the following command: `npm install node`
 
-2) To launch the bot in your solo minecraft world, do esc(in the world) then click on the `LAN` button
+2) To launch the bot in your Minecraft world, do ESC(in the world) then click on the `LAN` button
  ![No Preview :(](https://github.com/Creator754915/Bot-Minecraft-JS/blob/main/images/lan.png))
  
 3) Then click on the button `Start LAN`
