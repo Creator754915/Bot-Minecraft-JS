@@ -27,6 +27,17 @@
 
 **stop**
 
-**pvp**
+**pvp** *PVP* the bot
 
-**help**
+**jump** Stop *PVP*
+
+**forward** Bot *forward*
+
+**left** Bot *LEFT*
+
+**right** Bot *RIGHT*
+
+**sprint** bot *SPRINT*
+
+
+**help** 
