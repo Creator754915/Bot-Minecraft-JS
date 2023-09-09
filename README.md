@@ -1,6 +1,6 @@
 # Bot-Minecraft-JS
 
-## Facilities
+## Features
 
 1) Go to your code editor and enter the following command: `npm install node`
 
@@ -20,3 +20,13 @@
 7) The bot are in your world
  ![No Preview :(](https://github.com/Creator754915/Bot-Minecraft-JS/blob/main/images/bot%20join.png)
  ![No Preview :(](https://github.com/Creator754915/Bot-Minecraft-JS/blob/main/images/bot%20here.png))
+
+## HELP
+
+**guard**
+
+**stop**
+
+**pvp**
+
+**help**
