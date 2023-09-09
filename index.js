@@ -8,7 +8,7 @@ const collectBlock = require('mineflayer-collectblock').plugin
 
 const bot = mineflayer.createBot({
     host: 'localhost',
-    port: '60335',
+    port: '64599',
     username: 'Bot V2.5',
 })
 
@@ -112,6 +112,7 @@ bot.on('chat', (username, message) => {
     }
 
     bot.chat('Prepare to fight!')
+    bot.lookAt(player)
     bot.pvp.attack(player.entity)
   }
 
@@ -165,8 +166,16 @@ bot.once('spawn', () => {
 })
 
 bot.on('rain', () => {
-  bot.chat('Ho no the rain are arrived !')
+  bot.chat('Say good bey to the rain!')
   bot.chat('/weather clear')
+})
+
+bot.on('entitySleep', () => {
+  bot.chat("A player is sleeping")
+})
+
+bot.on('playerJoined', () => {
+  bot.chat("Welcome, " + player.name)
 })
 
 bot.on('itemDrop', () => {
